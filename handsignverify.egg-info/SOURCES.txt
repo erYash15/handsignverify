@@ -1,7 +1,0 @@
-LICENSE.txt
-setup.py
-handsignverify.egg-info/PKG-INFO
-handsignverify.egg-info/SOURCES.txt
-handsignverify.egg-info/dependency_links.txt
-handsignverify.egg-info/requires.txt
-handsignverify.egg-info/top_level.txt
